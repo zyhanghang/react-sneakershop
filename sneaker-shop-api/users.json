@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nickname": "admin",
+      "email": "admin@163.com",
+      "password": "admin111",
+      "type": 1
+    },
+    {
+      "id": 2,
+      "email": "curry@163.com",
+      "password": "111111",
+      "nickname": "Curry",
+      "type": 0
+    },
+    {
+      "id": 3,
+      "email": "yua@qq.com",
+      "password": "yua2048",
+      "nickname": "yua",
+      "type": 0
+    }
+  ]
+}
